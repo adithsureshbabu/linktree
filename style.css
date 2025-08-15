@@ -54,7 +54,7 @@ body {
   height: 120px;
   border-radius: 50%;
   margin: 0 auto 20px;
-  background: var(--primary-gradient);
+  background: var(--text-primary);
   padding: 4px;
   box-shadow: var(--shadow-light);
   transition: var(--transition-smooth);
